@@ -23,7 +23,7 @@ function setCookie(name, value, days, domain, path) {
 }
 
 // Set the PREF cookie reponsible for your theme
-setCookie("PREF", "f7=100", 365, ".youtube.com", "/");
+setCookie("PREF", "f6=8", 365, ".youtube.com", "/");
 
 //the function is self explanatory but the new update doesnt force open it in a new tab anymore
 function openYoutubeVideoInTab(e) {
